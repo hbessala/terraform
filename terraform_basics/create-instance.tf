@@ -1,6 +1,6 @@
 provider "aws" {
-    access_key = "tfadmin"
-    secret_key = "zSAy/0T+qpX@OP4`$/dH"
+    access_key = "AKIAT6DYKOVCMDTC5V63"
+    secret_key = "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"
     region     = "eu-central-1"
 }
 
